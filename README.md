@@ -4,7 +4,7 @@
 
 - Description and evaluation of the UKCA stratosphere-troposphere chemistry scheme (StratTrop vn 1.0) implemented in UKESM1 (some analysis e.g. [Lawrence plots](https://github.com/ptg21/iris_pyle_scripts/blob/master/lawrence_plot.py))
 
-- Influence of Sea Ice-Derived Halogens on Atmospheric HOx as Observed in Springtime Coastal Antarctica [box modelling of BrO levels using](https://boxmodeling.meteo.physik.uni-muenchen.de/descriptions/boxmox.html)
+- Influence of Sea Ice-Derived Halogens on Atmospheric HOx as Observed in Springtime Coastal Antarctica -(box modelling of BrO levels using [BOXMOX](https://boxmodeling.meteo.physik.uni-muenchen.de/descriptions/boxmox.html))
 
 - UKESM1: Description and Evaluation of the U.K. Earth System Model (some analysis, e.g. [ozone analysis](https://github.com/ptg21/iris_pyle_scripts/blob/master/for_maria.py))
 
