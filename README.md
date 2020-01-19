@@ -2,6 +2,8 @@
 
 - Methane mitigation: methods to reduce emissions, on the path to the Paris Agreement (box modelling of future methane pathways).  DOI:10.1029/2019RG000675
 
+- Trends in global tropospheric hydroxyl radical and methane lifetime since 1850 from AerChemMIP (I ledthe UKESM-1 histSST-piCH4 and histSST-piO3 used by this paper) DOI:10.5194/acp-2019-1219
+
 ### 2019
 
 - Modelling the potential impacts of the recent, unexpected increase in CFC-11 emissions on total column ozone recovery (box modelling). DOI:10.5194/acp-2019-747
