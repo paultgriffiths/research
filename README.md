@@ -6,7 +6,6 @@
 
 - Assessment of pre-industrial to present-day anthropogenic climate forcing in UKESM1 (Together with James Keeble, contributed to the analysis for the ozone/OH/aerosol coupling in parts of section 4.4)  DOI:10.5194/acp-2019-1152
 
-- 
 
 ### 2019
 
