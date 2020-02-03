@@ -4,6 +4,10 @@
 
 - Trends in global tropospheric hydroxyl radical and methane lifetime since 1850 from AerChemMIP (I led the UKESM-1 histSST-piCH4 and histSST-piO3 AerChemMIP integrations for the UKESM-1 team, and these were used in this paper) DOI:10.5194/acp-2019-1219
 
+- Assessment of pre-industrial to present-day anthropogenic climate forcing in UKESM1 (Together with James Keeble, contributed to the analysis for the ozone/OH/aerosol coupling in parts of section 4.4)  DOI:10.5194/acp-2019-1152
+
+- 
+
 ### 2019
 
 - Modelling the potential impacts of the recent, unexpected increase in CFC-11 emissions on total column ozone recovery (box modelling). DOI:10.5194/acp-2019-747
