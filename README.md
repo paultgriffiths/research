@@ -1,4 +1,5 @@
 ### 2020
+- On the changing role of the stratosphere on the tropospheric ozone budget: 1979-2010 (co-lead)  DOI to follow.  Code/data at https://osf.io/m2akh/
 
 - Tropospheric ozone in CMIP6 models (co-lead) DOI:10.5194/acp-2019-1216
 
