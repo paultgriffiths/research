@@ -25,7 +25,7 @@
 
 - Influence of Sea Ice-Derived Halogens on Atmospheric HOx as Observed in Springtime Coastal Antarctica -(box modelling of BrO levels using [BOXMOX](https://boxmodeling.meteo.physik.uni-muenchen.de/descriptions/boxmox.html)). DOI:10.1029/2019GL083825
 
-- UKESM1: Description and Evaluation of the U.K. Earth System Model (some analysis, e.g. [ozone analysis](https://github.com/ptg21/iris_pyle_scripts/blob/master/for_maria.py)). DOI:10.1029/2020MS002126
+- The evaluation of the North Atlantic climate system in UKESM1 historical simulations for CMIP6 (some analysis, e.g. [ozone analysis](https://github.com/ptg21/iris_pyle_scripts/blob/master/for_maria.py)). https://doi.org/10.1029/2020MS002126
 
 - Measuring Aerosol Phase Changes and Hygroscopicity with a Microresonator Mass Sensor. DOI:10.1021/acs.analchem.8b00114
 
