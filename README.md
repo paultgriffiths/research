@@ -1,6 +1,6 @@
 ### 2020
 
-- Tropospheric Ozone Assessment Report: A critical review of changes in the tropospheric ozone burden and budget from 1850-2100 (Contributed to the section on heterogeneous chemistry) DOI:10.1525/elementa.034 
+- Tropospheric Ozone Assessment Report: A critical review of changes in the tropospheric ozone burden and budget from 1850-2100 (Contributed to the section on heterogeneous chemistry) DOI:10.1525/elementa.2020.034
 
 - Reconciling the climate and ozone response to the 1257 CE Mount Samalas eruption.  DOI: 10.1073/pnas.1919807117
 
