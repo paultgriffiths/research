@@ -1,3 +1,7 @@
+### 2021
+
+- Tropospheric ozone in CMIP6 models (co-lead) DOI:10.5194/acp-21-4187-2021 - final version featured an extended look at STE (https://github.com/paultgriffiths/Tropospheric-ozone-in-CMIP6-simulations_data_analysis/tree/main/STE).
+
 ### 2020
 
 - Tropospheric Ozone Assessment Report: A critical review of changes in the tropospheric ozone burden and budget from 1850-2100 (Contributed to the section on heterogeneous chemistry) DOI:10.1525/elementa.2020.034
