@@ -2,7 +2,7 @@
 
 - Tropospheric ozone in CMIP6 models (co-lead) DOI:10.5194/acp-21-4187-2021 - final version featured an extended look at STE (https://github.com/paultgriffiths/Tropospheric-ozone-in-CMIP6-simulations_data_analysis/tree/main/STE)
 
-- Ascorbate oxidation by iron, copper and reactive oxygen species: review, model development, and derivation of key rate constants (early stages development of box model).  DOI: 10.1038/s41598-021-86477-8
+- Ascorbate oxidation by iron, copper and reactive oxygen species: review, model development, and derivation of key rate constants (early-stages development of box model).  DOI: 10.1038/s41598-021-86477-8
 
 ### 2020
 
