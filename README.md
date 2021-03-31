@@ -20,7 +20,7 @@
 
 - Tropospheric ozone in CMIP6 models (co-lead) DOI:10.5194/acp-2019-1216
 
-- Evaluating stratospheric ozone and water vapor changes in CMIP6 models from 1850–2100 (data analysis scripts) DOI:10.5194/acp-2019-1202
+- Evaluating stratospheric ozone and water vapor changes in CMIP6 models from 1850–2100 (data analysis scripts) DOI:10.5194/acp-2019-1202. Final version published 2021 - DOI:10.5194/acp-21-5015-2021
 
 - Methane mitigation: methods to reduce emissions, on the path to the Paris Agreement (box modelling of future methane pathways).  DOI:10.1029/2019RG000675
 
