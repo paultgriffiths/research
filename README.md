@@ -4,6 +4,8 @@
 
 - Ascorbate oxidation by iron, copper and reactive oxygen species: review, model development, and derivation of key rate constants (early-stages development of box model).  DOI: 10.1038/s41598-021-86477-8
 
+- Opinion: The Germicidal Effect of Ambient Air (Open Air Factor) Revisited (early data analysis). DOI: 10.5194/acp-2021-375
+
 ### 2020
 
 - Tropospheric Ozone Assessment Report: A critical review of changes in the tropospheric ozone burden and budget from 1850-2100 (Contributed to the section on heterogeneous chemistry) DOI:10.1525/elementa.2020.034
