@@ -1,10 +1,12 @@
 ### 2021
 
+- The role of natural halogens in global tropospheric ozone chemistry and budget under different 21st century climate scenarios (tropospheric ozone burdens in CMIP6 models) DOI:10.1029/2021JD034859
+
 - Tropospheric ozone in CMIP6 models (co-lead) DOI:10.5194/acp-21-4187-2021 - final version featured an extended look at STE (https://github.com/paultgriffiths/Tropospheric-ozone-in-CMIP6-simulations_data_analysis/tree/main/STE)
 
-- Ascorbate oxidation by iron, copper and reactive oxygen species: review, model development, and derivation of key rate constants (early-stages development of box model).  DOI: 10.1038/s41598-021-86477-8
+- Ascorbate oxidation by iron, copper and reactive oxygen species: review, model development, and derivation of key rate constants (early-stages development of box model).  DOI:10.1038/s41598-021-86477-8
 
-- Opinion: The Germicidal Effect of Ambient Air (Open Air Factor) Revisited (early data analysis). DOI: 10.5194/acp-2021-375
+- Opinion: The Germicidal Effect of Ambient Air (Open Air Factor) Revisited (early data analysis). DOI:10.5194/acp-2021-375
 
 - Climate Change 2021. The Physical Science Basis.  Chapter 6 "Short-lived climate forcers" Contributing Author.  
 
@@ -13,9 +15,9 @@
 
 - Tropospheric Ozone Assessment Report: A critical review of changes in the tropospheric ozone burden and budget from 1850-2100 (Contributed to the section on heterogeneous chemistry) DOI:10.1525/elementa.2020.034
 
-- Reconciling the climate and ozone response to the 1257 CE Mount Samalas eruption.  DOI: 10.1073/pnas.1919807117
+- Reconciling the climate and ozone response to the 1257 CE Mount Samalas eruption.  DOI:10.1073/pnas.1919807117
 
-- Methane Emissions in a Chemistry-Climate Model: feedbacks and climate response (UKCA development/box modelling).  DOI: 10.1029/2019MS002019
+- Methane Emissions in a Chemistry-Climate Model: feedbacks and climate response (UKCA development/box modelling).  DOI:10.1029/2019MS002019
 
 - Ozone trends from two decades of ground level observation in Malaysia (using https://davidcarslaw.github.io/openair/) DOI:10.3390/atmos11070755
 
