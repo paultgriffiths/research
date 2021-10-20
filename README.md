@@ -1,6 +1,6 @@
 ### 2021
 
-- The role of natural halogens in global tropospheric ozone chemistry and budget under different 21st century climate scenarios (comparison with tropospheric ozone burdens in CMIP6 models) DOI:10.1029/2021JD034859
+- The role of natural halogens in global tropospheric ozone chemistry and budget under different 21st century climate scenarios (comparison with tropospheric ozone burdens in CMIP6 models) DOI:10.1029/2021JD034859 
 
 - Tropospheric ozone in CMIP6 models (co-lead) DOI:10.5194/acp-21-4187-2021 - final version featured an extended look at STE (https://github.com/paultgriffiths/Tropospheric-ozone-in-CMIP6-simulations_data_analysis/tree/main/STE)
 
