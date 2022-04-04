@@ -1,3 +1,9 @@
+### 2022 
+
+- The role of future anthropogenic methane emissions in air quality and climate. DOI:10.1038/s41612-022-00247-5 - what are the potential benefits of reducing methane emissions.
+
+- 
+
 ### 2021
 
 - The role of natural halogens in global tropospheric ozone chemistry and budget under different 21st century climate scenarios (comparison with tropospheric ozone burdens in CMIP6 models) DOI:10.1029/2021JD034859 
