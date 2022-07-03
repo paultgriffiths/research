@@ -1,8 +1,8 @@
 ### 2022 
 
-- The role of future anthropogenic methane emissions in air quality and climate. DOI:10.1038/s41612-022-00247-5 - what are the potential benefits of reducing methane emissions.
+- The role of future anthropogenic methane emissions in air quality and climate. DOI:10.1038/s41612-022-00247-5 
 
-- 
+- Description and Evaluation of an Emission-Driven and Fully Coupled Methane Cycle in UKESM1.  DOI:10.1029/2021MS002982 (evaluation of OH, CH4 and CO model performance)
 
 ### 2021
 
@@ -14,7 +14,7 @@
 
 - Opinion: The Germicidal Effect of Ambient Air (Open Air Factor) Revisited (early data analysis). DOI:10.5194/acp-2021-375
 
-- Climate Change 2021. The Physical Science Basis.  Chapter 6 "Short-lived climate forcers" Contributing Author.  
+- Climate Change 2021. The Physical Science Basis.  Chapter 6 "Short-lived climate forcers" Contributing Author
 
 
 ### 2020
