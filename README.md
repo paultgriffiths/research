@@ -4,6 +4,8 @@
 
 - Description and Evaluation of an Emission-Driven and Fully Coupled Methane Cycle in UKESM1.  DOI:10.1029/2021MS002982 (evaluation of OH, CH4 and CO model performance)
 
+-  Attribution of stratospheric and tropospheric ozone changes between 1850 and 2014 in CMIP6 models.  10.1029/2022JD036452 (histSST-piCH4 and -piO3 experiments)
+
 ### 2021
 
 - The role of natural halogens in global tropospheric ozone chemistry and budget under different 21st century climate scenarios (comparison with tropospheric ozone burdens in CMIP6 models) DOI:10.1029/2021JD034859 
@@ -15,6 +17,8 @@
 - Opinion: The Germicidal Effect of Ambient Air (Open Air Factor) Revisited (early data analysis). DOI:10.5194/acp-2021-375
 
 - Climate Change 2021. The Physical Science Basis.  Chapter 6 "Short-lived climate forcers" Contributing Author
+
+- The Impacts of Aerosol Emissions on Historical Climate in UKESM1.  DOI: 10.3390/atmos11101095 (histSST-piCH4 and -piO3 experiments)
 
 
 ### 2020
