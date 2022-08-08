@@ -4,7 +4,9 @@
 
 - Description and Evaluation of an Emission-Driven and Fully Coupled Methane Cycle in UKESM1.  DOI:10.1029/2021MS002982 (evaluation of OH, CH4 and CO model performance)
 
--  Attribution of stratospheric and tropospheric ozone changes between 1850 and 2014 in CMIP6 models.  10.1029/2022JD036452 (histSST-piCH4 and -piO3 experiments)
+-  Attribution of stratospheric and tropospheric ozone changes between 1850 and 2014 in CMIP6 models.  DOI:10.1029/2022JD036452 (histSST-piCH4 and -piO3 experiments)
+
+- The Future Climate and Air Quality Response from different Near‐Term Climate Forcer, Climate and Land‐use Scenarios using UKESM1 DOI: 10.1029/2022EF002687
 
 ### 2021
 
