@@ -6,7 +6,7 @@
 
 -  Attribution of stratospheric and tropospheric ozone changes between 1850 and 2014 in CMIP6 models.  DOI:10.1029/2022JD036452 (histSST-piCH4 and -piO3 experiments)
 
-- The Future Climate and Air Quality Response from different Near‐Term Climate Forcer, Climate and Land‐use Scenarios using UKESM1 DOI: 10.1029/2022EF002687
+- The Future Climate and Air Quality Response from different Near‐Term Climate Forcer, Climate and Land‐use Scenarios using UKESM1 DOI: 10.1029/2022EF002687.
 
 ### 2021
 
