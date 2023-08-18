@@ -1,3 +1,7 @@
+### 2023
+
+- Atmospheric composition and climate impacts of a future hydrogen economy.  DOI:10.5194/acp-2023-29 (ERF and atmospheric composition analysis, timescales and feedback analysis for GWP calculations).
+
 ### 2022 
 
 - The role of future anthropogenic methane emissions in air quality and climate. DOI:10.1038/s41612-022-00247-5 
